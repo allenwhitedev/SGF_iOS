@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C25A5FC31DEBE2BC00C1E2D7"
+               BuildableName = "StudyGroupFinder.app"
+               BlueprintName = "StudyGroupFinder"
+               ReferencedContainer = "container:StudyGroupFinder.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -12,7 +28,36 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C25A5FD71DEBE2BC00C1E2D7"
+               BuildableName = "StudyGroupFinderTests.xctest"
+               BlueprintName = "StudyGroupFinderTests"
+               ReferencedContainer = "container:StudyGroupFinder.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C25A5FE21DEBE2BC00C1E2D7"
+               BuildableName = "StudyGroupFinderUITests.xctest"
+               BlueprintName = "StudyGroupFinderUITests"
+               ReferencedContainer = "container:StudyGroupFinder.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C25A5FC31DEBE2BC00C1E2D7"
+            BuildableName = "StudyGroupFinder.app"
+            BlueprintName = "StudyGroupFinder"
+            ReferencedContainer = "container:StudyGroupFinder.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,6 +71,16 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C25A5FC31DEBE2BC00C1E2D7"
+            BuildableName = "StudyGroupFinder.app"
+            BlueprintName = "StudyGroupFinder"
+            ReferencedContainer = "container:StudyGroupFinder.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -35,6 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "C25A5FC31DEBE2BC00C1E2D7"
+            BuildableName = "StudyGroupFinder.app"
+            BlueprintName = "StudyGroupFinder"
+            ReferencedContainer = "container:StudyGroupFinder.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

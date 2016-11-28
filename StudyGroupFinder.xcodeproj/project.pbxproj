@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					C25A5FC31DEBE2BC00C1E2D7 = {
 						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 785ELW46F6;
 						ProvisioningStyle = Automatic;
 					};
 					C25A5FD71DEBE2BC00C1E2D7 = {
@@ -412,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 785ELW46F6;
 				INFOPLIST_FILE = StudyGroupFinder/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.awd..StudyGroupFinder;
@@ -424,6 +426,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 785ELW46F6;
 				INFOPLIST_FILE = StudyGroupFinder/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.awd..StudyGroupFinder;
